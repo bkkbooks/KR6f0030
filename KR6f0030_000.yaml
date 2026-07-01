@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0030/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說離垢施女經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0338.xml
+    old_id: T12n0338
+hash: sha256:b49d9d6c751be46380b30036b6385ba2828c6432e9f0e6fcfaa76fb6a7ded04c

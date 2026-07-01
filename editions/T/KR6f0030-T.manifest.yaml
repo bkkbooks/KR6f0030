@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6f0030/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0030/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說離垢施女經
+  identifiers:
+    krp: KR6f0030
+    cbeta: T12n0338
+    cbeta_old_id: T12n0338
+    authorityid: CA0002023
+    json_key: T0338
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0338.xml
+    old_id: T12n0338
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0030_000-T.yaml, hash: 'sha256:b49d9d6c751be46380b30036b6385ba2828c6432e9f0e6fcfaa76fb6a7ded04c'}
+  - {seq: 1, filename: KR6f0030_001-T.yaml, hash: 'sha256:a01c69596b966802ecd54369430c647befc3a67443ad034d51f4684bee8eab12'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0030_000-T.markers.yaml, hash: 'sha256:f2fecb255ba919767fc2e057cba461c4df494f982b009c0b5bf4dc895e55422a'}
+  - {seq: 1, role: markers, filename: assets/KR6f0030_001-T.markers.yaml, hash: 'sha256:9ced971773768e19071b4d4d5844b2e9029ae156f4a2222ebbf86af5c265f531'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0030_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10029
+  label: 佛說離垢施女經
+  type: juan
+  level: 1
+hash: sha256:25d2056ebcf2d650714019c8e19bde86e2dfac7e4d9bc36bc4a33838c0c53a2d
