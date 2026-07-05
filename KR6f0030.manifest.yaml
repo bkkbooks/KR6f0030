@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0030_000.yaml, hash: 'sha256:b49d9d6c751be46380b30036b6385ba2828c6432e9f0e6fcfaa76fb6a7ded04c'}
-  - {seq: 1, filename: KR6f0030_001.yaml, hash: 'sha256:20ad84d8e074b5e6d4fe2748ed995a8cca2b9dd48c501de5c7ae33d537f2bf72'}
+  - {seq: 1, filename: KR6f0030_001.yaml, hash: 'sha256:a01c69596b966802ecd54369430c647befc3a67443ad034d51f4684bee8eab12'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0030_001.markers.yaml, hash: 'sha256:28d1683adb6923b433bccdb4a7c393c02c045ce9369265d3af4dd672e21b4b06'}
+  - {seq: 0, role: markers, filename: assets/KR6f0030_000.markers.yaml, hash: 'sha256:b9d07ae05c08aa8418c85cf2e36732984c8db56a9f598ee0158139489ce68e74'}
+  - {seq: 1, role: markers, filename: assets/KR6f0030_001.markers.yaml, hash: 'sha256:ec6614a7a8c75c60b50479f2fdb0af1478908c94f9204dd2cba7a0bc136ba664'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說離垢施女經
   type: juan
   level: 1
-hash: sha256:f2ef8e59cbb59a8813dd73eac0d4de54a87ed40bb71bc704b07ec4bffc9eda20
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9e526fbbdee88f37e83eb7c8a5e1aa89a84a0875a6101655bc4d2d4b86f5990f
