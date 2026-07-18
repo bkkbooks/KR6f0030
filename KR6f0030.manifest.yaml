@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6f0030_000.yaml, hash: 'sha256:b49d9d6c751be46380b30036b6385ba2828c6432e9f0e6fcfaa76fb6a7ded04c'}
   - {seq: 1, filename: KR6f0030_001.yaml, hash: 'sha256:22a181687a2ee95457b63b0d647a5643e6d37d98fbb8328962e16255a9be7f49'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0030_000.markers.yaml, hash: 'sha256:b9d07ae05c08aa8418c85cf2e36732984c8db56a9f598ee0158139489ce68e74'}
+  - {seq: 0, role: markers, filename: assets/KR6f0030_000.markers.yaml, hash: 'sha256:a798966741a22a8fc2175dd1cf6334793864ad72da072a939e4a221eed87bd43'}
   - {seq: 1, role: markers, filename: assets/KR6f0030_001.markers.yaml, hash: 'sha256:f2281b2dfed850b6f7f6f90fc79304eb5301091fec1756852f4045c9e2de979a'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 佛說離垢施女經
   type: juan
   level: 1
-hash: sha256:ddcf657dfffe9245fa7fcd2580ceab896cf10e33ac114af882f043d72389b036
+hash: sha256:144578ec907935a5b791656323083d65a04cbe8776fdc511bc32b5ffaf155509
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
